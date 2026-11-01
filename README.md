@@ -1,4 +1,4 @@
-This is a project that demonstrates the following:
+#This is a project that demonstrates the following:
 
 *Abstract Class (Person): Base class for all people in the system.
 
